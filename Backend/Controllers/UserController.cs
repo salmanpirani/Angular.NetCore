@@ -38,6 +38,22 @@ namespace BackEnd.Controllers
             _db.users.Add(user);
             _db.SaveChanges();
         }
+        [HttpPost("login")]
+        public ActionResult<bool> login(LoginDTO dto )
+        {
+            var user = _db.users.FirstOrDefault(x => x.Email == dto.email
+            && x.password == dto.password);
+
+            if (user != null)
+
+            {return Ok();}
+            else    
+                { return BadRequest(false);}
+            
+
+        }
+
+
         // PUT api/user/5
         [HttpPut("{id}")]
         public ActionResult<User> Put(int id, User user)

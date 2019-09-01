@@ -12,6 +12,7 @@ namespace Class1.Models
 
         public string Email { get; set; }
 
+ [Required]
         public  string password {get;set;}
          
         
