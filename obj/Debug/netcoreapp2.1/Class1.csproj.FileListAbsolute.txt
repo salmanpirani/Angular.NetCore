@@ -1,0 +1,14 @@
+D:\MSCS\Angular .NEt Core\classes\Class1\bin\Debug\netcoreapp2.1\Class1.deps.json
+D:\MSCS\Angular .NEt Core\classes\Class1\bin\Debug\netcoreapp2.1\Class1.runtimeconfig.json
+D:\MSCS\Angular .NEt Core\classes\Class1\bin\Debug\netcoreapp2.1\Class1.runtimeconfig.dev.json
+D:\MSCS\Angular .NEt Core\classes\Class1\bin\Debug\netcoreapp2.1\Class1.dll
+D:\MSCS\Angular .NEt Core\classes\Class1\bin\Debug\netcoreapp2.1\Class1.pdb
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.csprojAssemblyReference.cache
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.csproj.CoreCompileInputs.cache
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.RazorAssemblyInfo.cache
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.RazorAssemblyInfo.cs
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.AssemblyInfoInputs.cache
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.AssemblyInfo.cs
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.RazorTargetAssemblyInfo.cache
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.dll
+D:\MSCS\Angular .NEt Core\classes\Class1\obj\Debug\netcoreapp2.1\Class1.pdb
