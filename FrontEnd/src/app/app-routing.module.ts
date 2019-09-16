@@ -14,6 +14,10 @@ path:'home',
 component:HomeComponent
 }
 ,
+{path:'user',
+component:UserComponent
+}
+,
 {
   path:'',
   component:LoginComponent
@@ -29,6 +33,7 @@ export class AppRoutingModule { }
 
 import {Component} from '@angular/core';
 import { HomeComponent } from './home/home.component';
+import { UserComponent } from './user/user.component';
 
  
 

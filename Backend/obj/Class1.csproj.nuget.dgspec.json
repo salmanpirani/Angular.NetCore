@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\Class1.csproj": {}
+    "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\backend\\Class1.csproj": {}
   },
   "projects": {
-    "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\Class1.csproj": {
+    "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\backend\\Class1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\Class1.csproj",
+        "projectUniqueName": "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\backend\\Class1.csproj",
         "projectName": "Class1",
-        "projectPath": "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\Class1.csproj",
+        "projectPath": "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\backend\\Class1.csproj",
         "packagesPath": "C:\\Users\\salman\\.nuget\\packages\\",
-        "outputPath": "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\obj\\",
+        "outputPath": "D:\\MSCS\\Angular .NEt Core\\classes\\Class1\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

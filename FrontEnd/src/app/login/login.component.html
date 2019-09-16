@@ -1,1 +1,22 @@
-<p>login works!</p>
+<!-- <p>login component works!</p> -->
+<div style="padding: 20px; margin: 20px">
+    <mat-card>
+        <div class="example-container">
+            <!-- Reactive Forms -->
+            <form [formGroup]="formFG" (ngSubmit)="login()">
+                <mat-form-field appearance="outline">
+                    <mat-label>Email</mat-label>
+                    <input type="email" matInput type="email" formControlName="email" placeholder="abc@gmail.com">
+                </mat-form-field>
+
+                <mat-form-field appearance="outline">
+                    <mat-label>Password</mat-label>
+                    <input type="password" matInput type="password" formControlName="password" placeholder="anything">
+                </mat-form-field>
+                <div>
+                    <button mat-flat-button color="primary" type="submit">Login</button>
+                </div>
+            </form>
+        </div>
+    </mat-card>
+</div>
